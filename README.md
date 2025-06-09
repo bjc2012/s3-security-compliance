@@ -1,4 +1,4 @@
-# 🛡️ AWS S3 Security Compliance Check
+# 🛡️ S3 Security Compliance Check with AWS CLI + Python
 
 This mini Cloud security project creates a secure S3 bucket setup and uses a Python script to check for misconfigured S3 buckets.
 
